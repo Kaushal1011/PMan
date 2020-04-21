@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/www.psuprojectmanager.ml/static/css/main.5f361e03.chunk.css",
-    "main.js": "/www.psuprojectmanager.ml/static/js/main.652d70b0.chunk.js",
-    "main.js.map": "/www.psuprojectmanager.ml/static/js/main.652d70b0.chunk.js.map",
-    "runtime-main.js": "/www.psuprojectmanager.ml/static/js/runtime-main.8769f2bd.js",
-    "runtime-main.js.map": "/www.psuprojectmanager.ml/static/js/runtime-main.8769f2bd.js.map",
-    "static/js/2.7b15cb2c.chunk.js": "/www.psuprojectmanager.ml/static/js/2.7b15cb2c.chunk.js",
-    "static/js/2.7b15cb2c.chunk.js.map": "/www.psuprojectmanager.ml/static/js/2.7b15cb2c.chunk.js.map",
-    "index.html": "/www.psuprojectmanager.ml/index.html",
-    "precache-manifest.7854615d2c92e64ac7fd1eeaa4d59550.js": "/www.psuprojectmanager.ml/precache-manifest.7854615d2c92e64ac7fd1eeaa4d59550.js",
-    "service-worker.js": "/www.psuprojectmanager.ml/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/www.psuprojectmanager.ml/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7b15cb2c.chunk.js.LICENSE.txt": "/www.psuprojectmanager.ml/static/js/2.7b15cb2c.chunk.js.LICENSE.txt",
-    "static/media/background.jpg": "/www.psuprojectmanager.ml/static/media/background.6d30569f.jpg",
-    "static/media/browndesk.jpg": "/www.psuprojectmanager.ml/static/media/browndesk.820f2c1b.jpg"
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.f35b72d3.chunk.js",
+    "main.js.map": "/static/js/main.f35b72d3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.630d6da1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.630d6da1.js.map",
+    "static/js/2.7b15cb2c.chunk.js": "/static/js/2.7b15cb2c.chunk.js",
+    "static/js/2.7b15cb2c.chunk.js.map": "/static/js/2.7b15cb2c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e0c05dd42b5e235018cb807c836d8ab6.js": "/precache-manifest.e0c05dd42b5e235018cb807c836d8ab6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7b15cb2c.chunk.js.LICENSE.txt": "/static/js/2.7b15cb2c.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/static/media/background.6d30569f.jpg",
+    "static/media/browndesk.jpg": "/static/media/browndesk.820f2c1b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8769f2bd.js",
+    "static/js/runtime-main.630d6da1.js",
     "static/js/2.7b15cb2c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.652d70b0.chunk.js"
+    "static/js/main.f35b72d3.chunk.js"
   ]
 }
