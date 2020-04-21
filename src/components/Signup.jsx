@@ -205,6 +205,7 @@ class SignUp extends React.Component {
                     fullWidth
                     name="password"
                     label="Password"
+                    helperText="8 letters and 1 capital, 1 Numeric compulsory"
                     type="password"
                     id="password"
                     autoComplete="current-password"
