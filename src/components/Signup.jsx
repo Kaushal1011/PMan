@@ -120,7 +120,7 @@ class SignUp extends React.Component {
       return (
         <Redirect
           to={{
-            pathname: "/login-page",
+            pathname: "/login",
           }}
         />
       );
@@ -226,12 +226,7 @@ class SignUp extends React.Component {
               </Button>
               <Grid container justify="flex-end">
                 <Grid item>
-                  <Link
-                    to={{
-                      pathname: "/login",
-                    }}
-                    variant="body2"
-                  >
+                  <Link to={{ pathname: "/login" }} variant="body2">
                     Already have an account? Sign in
                   </Link>
                 </Grid>
