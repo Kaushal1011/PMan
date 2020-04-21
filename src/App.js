@@ -68,7 +68,7 @@ function App() {
     // <ApolloProvider client={client}>
     <Provider template={AlertTemplate} {...options}>
       <ThemeProvider theme={theme}>
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <Switch>
             {/* <Route path="/landing-page" component={LandingPage} /> */}
             {/* <Route path="/profile-page" component={ProfilePage} /> */}
