@@ -1,6 +1,6 @@
 import { gql } from "apollo-boost";
 import { HttpLink } from "apollo-link-http";
-const uri = "https://ec2-3-83-23-174.compute-1.amazonaws.com/graphql-api";
+const uri = "https://52.0.156.78/graphql-api";
 export const link = new HttpLink({ uri });
 export const createUser = gql`
   mutation(
