@@ -81,7 +81,7 @@ function App() {
             <Route path="/analytics" component={Analytics} />
             <Route path="/settings" component={Settings} />
             <Route path="/profile" component={Profiles} />
-            <Route path="/" component={Login} />
+            <Route path="" component={Login} />
           </Switch>
         </Router>
       </ThemeProvider>
