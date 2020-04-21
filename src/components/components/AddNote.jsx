@@ -119,7 +119,7 @@ class AddNote extends React.Component {
                 required
                 id="title"
                 name="titile"
-                label="Task title"
+                label="Note title"
                 fullWidth
                 value={this.state.title}
                 onChange={(event) =>
