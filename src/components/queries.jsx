@@ -1,6 +1,6 @@
 import { gql } from "apollo-boost";
 import { HttpLink } from "apollo-link-http";
-const uri = "https://psuprojectmanager.ml/graphql-api";
+const uri = "https://www.psuprojectmanager.ml/graphql-api";
 export const link = new HttpLink({ uri });
 export const createUser = gql`
   mutation(
