@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PMan/static/css/main.5f361e03.chunk.css",
+    "main.js": "/PMan/static/js/main.5354217c.chunk.js",
+    "main.js.map": "/PMan/static/js/main.5354217c.chunk.js.map",
+    "runtime-main.js": "/PMan/static/js/runtime-main.67173efd.js",
+    "runtime-main.js.map": "/PMan/static/js/runtime-main.67173efd.js.map",
+    "static/js/2.a601707c.chunk.js": "/PMan/static/js/2.a601707c.chunk.js",
+    "static/js/2.a601707c.chunk.js.map": "/PMan/static/js/2.a601707c.chunk.js.map",
+    "index.html": "/PMan/index.html",
+    "precache-manifest.a1e477fd24c1cf18bc9ad4c9a674d78b.js": "/PMan/precache-manifest.a1e477fd24c1cf18bc9ad4c9a674d78b.js",
+    "service-worker.js": "/PMan/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/PMan/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a601707c.chunk.js.LICENSE.txt": "/PMan/static/js/2.a601707c.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/PMan/static/media/background.6d30569f.jpg",
+    "static/media/browndesk.jpg": "/PMan/static/media/browndesk.820f2c1b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67173efd.js",
+    "static/js/2.a601707c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5354217c.chunk.js"
+  ]
+}
