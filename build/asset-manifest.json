@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/PMan/static/css/main.5f361e03.chunk.css",
-    "main.js": "/PMan/static/js/main.45d27eb0.chunk.js",
-    "main.js.map": "/PMan/static/js/main.45d27eb0.chunk.js.map",
-    "runtime-main.js": "/PMan/static/js/runtime-main.67173efd.js",
-    "runtime-main.js.map": "/PMan/static/js/runtime-main.67173efd.js.map",
-    "static/js/2.7b15cb2c.chunk.js": "/PMan/static/js/2.7b15cb2c.chunk.js",
-    "static/js/2.7b15cb2c.chunk.js.map": "/PMan/static/js/2.7b15cb2c.chunk.js.map",
-    "index.html": "/PMan/index.html",
-    "precache-manifest.6601bf1690035c76df6a1a02b5c9e121.js": "/PMan/precache-manifest.6601bf1690035c76df6a1a02b5c9e121.js",
-    "service-worker.js": "/PMan/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/PMan/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7b15cb2c.chunk.js.LICENSE.txt": "/PMan/static/js/2.7b15cb2c.chunk.js.LICENSE.txt",
-    "static/media/background.jpg": "/PMan/static/media/background.6d30569f.jpg",
-    "static/media/browndesk.jpg": "/PMan/static/media/browndesk.820f2c1b.jpg"
+    "main.css": "/www.psuprojectmanager.ml/static/css/main.5f361e03.chunk.css",
+    "main.js": "/www.psuprojectmanager.ml/static/js/main.652d70b0.chunk.js",
+    "main.js.map": "/www.psuprojectmanager.ml/static/js/main.652d70b0.chunk.js.map",
+    "runtime-main.js": "/www.psuprojectmanager.ml/static/js/runtime-main.8769f2bd.js",
+    "runtime-main.js.map": "/www.psuprojectmanager.ml/static/js/runtime-main.8769f2bd.js.map",
+    "static/js/2.7b15cb2c.chunk.js": "/www.psuprojectmanager.ml/static/js/2.7b15cb2c.chunk.js",
+    "static/js/2.7b15cb2c.chunk.js.map": "/www.psuprojectmanager.ml/static/js/2.7b15cb2c.chunk.js.map",
+    "index.html": "/www.psuprojectmanager.ml/index.html",
+    "precache-manifest.7854615d2c92e64ac7fd1eeaa4d59550.js": "/www.psuprojectmanager.ml/precache-manifest.7854615d2c92e64ac7fd1eeaa4d59550.js",
+    "service-worker.js": "/www.psuprojectmanager.ml/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/www.psuprojectmanager.ml/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7b15cb2c.chunk.js.LICENSE.txt": "/www.psuprojectmanager.ml/static/js/2.7b15cb2c.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/www.psuprojectmanager.ml/static/media/background.6d30569f.jpg",
+    "static/media/browndesk.jpg": "/www.psuprojectmanager.ml/static/media/browndesk.820f2c1b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.67173efd.js",
+    "static/js/runtime-main.8769f2bd.js",
     "static/js/2.7b15cb2c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.45d27eb0.chunk.js"
+    "static/js/main.652d70b0.chunk.js"
   ]
 }
