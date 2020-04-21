@@ -72,8 +72,8 @@ function App() {
           <Switch>
             {/* <Route path="/landing-page" component={LandingPage} /> */}
             {/* <Route path="/profile-page" component={ProfilePage} /> */}
-            <Route path="/login-page" component={Login} />
-            <Route path="/signup-page" component={SignUp} />
+            <Route path="/login" component={Login} />
+            <Route path="/signup" component={SignUp} />
             <Route path="/dashboard" component={DashBoard} />
             <Route path="/projects" component={Projects} />
             <Route path="/tasks" component={Tasks} />
