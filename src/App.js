@@ -10,7 +10,7 @@ import Reports from "./components/Reports";
 import Analytics from "./components/Analytics";
 import Settings from "./components/Settings";
 import Profiles from "./components/Profiles";
-import { HashRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
 import { positions, Provider } from "react-alert";
 // import AlertTemplate from "react-alert-template-basic";
