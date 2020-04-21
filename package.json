@@ -2,7 +2,7 @@
   "name": "project_manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.psuprojectmanager.ml",
+  "homepage": "https://www.psuprojectmanager.ml/PMan",
   "dependencies": {
     "@apollo/react-hooks": "^3.1.5",
     "@material-ui/core": "^4.9.9",
