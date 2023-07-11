@@ -18,7 +18,7 @@
     "apollo-link": "^1.2.14",
     "graphql": "^15.0.0",
     "material-ui-dropzone": "^2.5.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^9.0.0",
     "npm-alert": "^1.0.0",
     "react": "^16.13.1",
     "react-alert": "^7.0.0",
@@ -28,7 +28,7 @@
     "react-minimal-pie-chart": "^7.3.0",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "recharts": "^1.8.5",
     "redux": "^4.0.5",
     "urql": "^1.9.6"
